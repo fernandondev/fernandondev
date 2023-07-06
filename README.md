@@ -9,7 +9,7 @@
 
 - 🔭Carcheck Brasil [Carcheck Brasil](https://sistema.carcheckbrasil.com.br/login)
 
-- 💬 Me pergunte sobre **JAVA, ANGULAR,SQL, PHP,LARAVEL, WEB SCRAPING**
+- 💬 Me pergunte sobre **JAVA, ANGULAR, PHP, LARAVEL, PYTHON, POSTGRESQL, DOCKER**
 
 - 📫 Você me acha através do email **ffcsantos2001@gmail.com**
 
