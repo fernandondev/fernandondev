@@ -3,13 +3,13 @@
 
 - 🔭 Trabalho nos projetos do grupo Union: **Union Solutions e Carcheck Brasil**
 
-- 🌱 Atualmente estou estudando **Laravel**
+- 🌱 Atualmente estou estudando **Ionic**
 
 - 🔭Union Solutions [Union Solutions](https://sistema.unionsolutions.com.br/)
 
 - 🔭Carcheck Brasil [Carcheck Brasil](https://sistema.carcheckbrasil.com.br/login)
 
-- 💬 Me pergunte sobre **JAVA, ANGULAR, PHP, LARAVEL, PYTHON, POSTGRESQL, DOCKER**
+- 💬 Me pergunte sobre **JAVA, SPRING, ANGULAR, PHP, LARAVEL, PYTHON, POSTGRESQL, DOCKER**
 
 - 📫 Você me acha através do email **ffcsantos2001@gmail.com**
 
